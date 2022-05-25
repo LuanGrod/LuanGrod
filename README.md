@@ -8,6 +8,8 @@
     </a>
     <a href="https://twitter.com/Luan_Grod">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FLuan_Grod" alt="Twitter Badge"/>
+     
     </a>
   </div>
 </div>
