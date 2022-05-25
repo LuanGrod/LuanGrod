@@ -1,4 +1,4 @@
-<h1  align="center">aloo</h1>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/jOpTgD5U1N6XAYhQcB/giphy.gif" width="150rem"/><br>
@@ -10,9 +10,12 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> 
     </a>
   </div>
+  <img src="https://komarev.com/ghpvc/?username=LuanGrod&style=flat-square&color=blue" alt=""/>
 </div>
 
 
+
+<h1  align="center">aloo</h1>
 
 <div align="center">
   <a href="https://github.com/LuanGrod">
