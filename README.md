@@ -1,11 +1,53 @@
 <h1 align="center">☀️ Praise the Sun ☀️</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/jOpTgD5U1N6XAYhQcB/giphy.gif" width="150rem"/></br>
+  <img src="https://media.giphy.com/media/whx1p7FsrMo9vXRee2/giphy.gif" width="10%"/></br>
 </div>
 
 ## 👋 Hello There
-I'm Luan, student of software development and looking for a job (me contrata garai)</br>
+
+### I'm Luan and welcome to my Github profile!!
+
+<details> 
+    <summary> 🔭 I'm currently studyng Software Development </summary>
+    <ul>
+        <li> Federal Institute of São Paulo
+        <li> Current at second year
+    </ul>
+</details>
+
+<details> 
+    <summary> 🌱 I’m currently learning Web Development </summary>
+    <ul>
+        <li> HTML/CSS
+        <li> Javascript and his libs, as React.js
+        <li> Some API integrations
+    </ul>
+</details>
+
+<details> 
+    <summary> 😉 I’m looking to collaborate with you in your company </summary>
+    <ul>
+        <li> Open to proposals as an intern in any of the Tech areas
+        <li> Please hire me
+    </ul>
+</details>
+
+<details> 
+    <summary> 🎮 I love playing games </summary>
+    <ul>
+        <li> I love challenges, just like any SoulsLike or Metroidvania
+        <li> I also like to play the big ones, as League and CS:GO 
+    </ul>
+</details>
+
+<details> 
+    <summary> 💬 Ask me about anything </summary>
+    <ul>
+        <li> I love learning and helping others
+        <li> Anyway I'm a student yet, but you can count on me ;)
+    </ul>
+</details>
   
 ## 🖥️ Technologies
   <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></code>
