@@ -4,9 +4,12 @@
   <img src="https://media.giphy.com/media/whx1p7FsrMo9vXRee2/giphy.gif" width="10%"/></br>
 </div>
 
-## 👋 Hello There
+<h2>👋 Hello There</h2>
 
-### I'm Luan and welcome to my Github profile!!
+<h3>I'm Luan and welcome to my Github profile!!</h3>
+
+<p>Full stack developer with professional experience in PHP projects and knowledge of technologies such as Typescript, Next.js, Node.js and Tailwind.</p>
+<p>My focus is on building attractive and practical interfaces for the real user, applying the fundamentals I have acquired to solve real problems.</p>
 
 <details> 
     <summary> 🔭 I'm currently studyng Software Development </summary>
@@ -75,12 +78,11 @@
 </div>
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-luangrod.vercel.app/pt)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-grod/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Luan_Grod)
-[![email](https://img.shields.io/badge/gmail-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white&color=DB4437)](mailto:luan14rodrigues17@gmail.com?subject=Hello%20Luan,%20From%20Github)
-[![reddit](https://img.shields.io/badge/reddit-1DA1F2?style=for-the-badge&logo=reddit&logoColor=white&color=FF4500)](https://www.reddit.com/user/Initial_Ad_4043)
-
+<a href="https://portfolio-luangrod.vercel.app/pt" target="_blank"><img height="30" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/luan-grod/" target="_blank"><img height="30" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/Luan_Grod" target="_blank"><img height="30" src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="mailto:luan14rodrigues17@gmail.com?subject=Hello%20Luan,%20From%20Github" target="_blank"><img height="30" src="https://img.shields.io/badge/gmail-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white&color=DB4437"/></a>
+<a href="https://www.reddit.com/user/Initial_Ad_4043" target="_blank"><img height="30" src="https://img.shields.io/badge/reddit-1DA1F2?style=for-the-badge&logo=reddit&logoColor=white&color=FF4500"/></a>
   
 <h6>Still in development</h6>
 <img src="https://komarev.com/ghpvc/?username=LuanGrod&style=flat-square&color=blue" alt=""/>
