@@ -78,7 +78,7 @@
 </div>
 
 ## 🔗 Links
-<a href="https://portfolio-luangrod.vercel.app/pt" target="_blank"><img height="30" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
+<a href="https://portfolio-next-app-luangrod.vercel.app" target="_blank"><img height="30" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/luan-grod/" target="_blank"><img height="30" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/Luan_Grod" target="_blank"><img height="30" src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="mailto:luan14rodrigues17@gmail.com?subject=Hello%20Luan,%20From%20Github" target="_blank"><img height="30" src="https://img.shields.io/badge/gmail-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white&color=DB4437"/></a>
