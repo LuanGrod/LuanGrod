@@ -8,23 +8,23 @@
 
 <h3>I'm Luan and welcome to my Github profile!!</h3>
 
-<p>Full stack developer with professional experience in PHP projects and knowledge of technologies such as Typescript, Next.js, Node.js and Tailwind.</p>
+<p>Front End developer with professional experience in PHP projects and knowledge of technologies such as Typescript, Next.js, Node.js and Tailwind.</p>
 <p>My focus is on building attractive and practical interfaces for the real user, applying the fundamentals I have acquired to solve real problems.</p>
 
 <details> 
     <summary> 🔭 I'm currently studyng Software Development </summary>
     <ul>
         <li> Instituto Federal de São Paulo
-        <li> 6th semester
+        <li> Degree in ADS - Análise e Desenvolvimento de Sistemas (2021/2023)
     </ul>
 </details>
 
 <details> 
     <summary> 🌱 Improving Front-end Skills </summary>
     <ul>
-        <li> Nextjs 13 app router </li>
+        <li> Next.js 13 app router </li>
         <li> Javascript and his libs, as React.js </li>
-        <li> Some API integrations </li>
+        <li> Studying C# with .NET Framework </li>
     </ul>
 </details>
 
@@ -41,7 +41,7 @@
     <summary> 🎮 I love playing games </summary>
     <ul>
         <li> Passionate about the Soulslike genre and various others </li>
-        <li> Enjoy playing popular titles like League and Counter-Strike </li>
+        <li> Enjoy playing popular titles as League and Rainbow Six </li>
     </ul>
 </details>
 
@@ -72,9 +72,13 @@
 
 ## ⚡ GitHub Stats
 <div align="center">
-  <a href="https://github.com/LuanGrod">
   <img height="180rem" align="center" src="https://github-readme-stats.vercel.app/api?username=LuanGrod&show_icons=true&theme=buefy&include_all_commits=true&count_private=true">
   <img height="160rem" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanGrod&layout=compact&langs_count=7&theme=buefy">
+</div>
+
+
+<div align="center">
+  <img height="140rem" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LuanGrod&" alt="LuanGrod" />
 </div>
 
 ## 🔗 Links
@@ -85,4 +89,4 @@
 <a href="https://www.reddit.com/user/Initial_Ad_4043" target="_blank"><img height="30" src="https://img.shields.io/badge/reddit-1DA1F2?style=for-the-badge&logo=reddit&logoColor=white&color=FF4500"/></a>
   
 <h6>Still in development</h6>
-<img src="https://komarev.com/ghpvc/?username=LuanGrod&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=LuanGrod&style=flat-square&color=blue" alt="visit counter"/>
