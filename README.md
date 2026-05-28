@@ -1,92 +1,138 @@
-<h1 align="center">☀️ Praise the Sun ☀️</h1>
+<h1 align="center">Hi, I'm Luan Rodrigues</h1>
+
+<p align="center">
+  Full Stack Developer focused on building modern, scalable and maintainable web applications.
+</p>
+
+<p align="center">
+  <a href="https://portfolio-luangrod.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/luan-grod/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:luan14rodrigues17@gmail.com?subject=Hello%20Luan,%20From%20Github" target="_blank">
+    <img src="https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+## About me
+
+I'm a Full Stack Developer with experience in more than 10 projects, working across frontend, backend, integrations and deployment workflows.
+
+My main focus is building web applications with **React**, **Next.js**, **TypeScript** and **PHP**. I have professional experience with PHP-based projects and I am currently deepening my knowledge in **Laravel**, **Node.js** and **NestJS**.
+
+I enjoy creating clean, practical and well-structured solutions, with attention to user experience, maintainability and real business needs.
+
+## Projects I've Contributed To
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Nutringage</h3>
+      <p>
+        SaaS platform for nutritionists, with patient follow-up, dashboards, service management and subscription features.
+      </p>
+      <p><strong>Context:</strong> SaaS, Healthcare, Dashboards, Subscriptions</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Medrqe</h3>
+      <p>
+        Web platform for medical students preparing for residency exams, with flashcards, questions, simulations and subscriptions.
+      </p>
+      <p><strong>Context:</strong> EdTech, Medical Education, Study Platform</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>COMDICA Donations</h3>
+      <p>
+        Donation platform for the city government of Recife, connecting donors with registered organizations and social causes.
+      </p>
+      <p><strong>Context:</strong> GovTech, Donations, Dashboard, Social Impact</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Main Stack
+
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+</p>
+
+### Database
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+</p>
+
+### DevOps, Infrastructure & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitLab_CI/CD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI/CD" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" alt="Linux" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+### AI & Productivity Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+</p>
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <img src="https://media.giphy.com/media/whx1p7FsrMo9vXRee2/giphy.gif" width="10%"/></br>
+  <img 
+    height="180em" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuanGrod&theme=gruvbox" 
+    alt="GitHub Stats" 
+  />
+  <img 
+    height="180em" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuanGrod&theme=gruvbox" 
+    alt="Top Languages by Repository" 
+  />
 </div>
-
-<h2>👋 Hello There</h2>
-
-<h3>I'm Luan and welcome to my Github profile!!</h3>
-
-<p>Front End developer with professional experience in PHP projects and knowledge of technologies such as Typescript, Next.js, Node.js and Tailwind.</p>
-<p>My focus is on building attractive and practical interfaces for the real user, applying the fundamentals I have acquired to solve real problems.</p>
-
-<details> 
-    <summary> 🔭 I'm currently studyng Software Development </summary>
-    <ul>
-        <li> Instituto Federal de São Paulo
-        <li> Degree in ADS - Análise e Desenvolvimento de Sistemas (2021/2023)
-    </ul>
-</details>
-
-<details> 
-    <summary> 🌱 Improving Front-end Skills </summary>
-    <ul>
-        <li> Next.js 13 app router </li>
-        <li> Javascript and his libs, as React.js </li>
-        <li> Studying C# with .NET Framework </li>
-    </ul>
-</details>
-
-<details> 
-    <summary> 😉 Open to Collaboration </summary>
-    <ul>
-        <li> Actively seeking opportunities to collaborate in various tech areas </li>
-        <li> Open to exciting proposals — eager to contribute and learn </li>
-        <li> Hire me for a valuable addition to your team! </li>
-    </ul>
-</details>
-
-<details> 
-    <summary> 🎮 I love playing games </summary>
-    <ul>
-        <li> Passionate about the Soulslike genre and various others </li>
-        <li> Enjoy playing popular titles as League and Rainbow Six </li>
-    </ul>
-</details>
-
-<details> 
-    <summary> 💬 Ask me about anything </summary>
-    <ul>
-        <li> Eager to learn and help fellow enthusiasts </li>
-        <li> Still a student, but always ready to lend a hand ;) </li>
-    </ul>
-</details>
-  
-## 🖥️ Technologies
-
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></code>
-  <code><img height="30" src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png" /></code>
-  <code><img height="30" src="https://files.raycast.com/sjxs3pxsc6k63ju0fzv8l3cu4v90" /></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
-  <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/540px-Postgresql_elephant.svg.png"/></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/></code>
-  <code><img height="30" src="https://seeklogo.com/images/F/framer-motion-logo-DA1E33CAA1-seeklogo.com.png"/></code>
-  <code><img height="30" src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png"/></code>
-
-## ⚡ GitHub Stats
-<div align="center">
-  <img height="180rem" align="center" src="https://github-readme-stats.vercel.app/api?username=LuanGrod&show_icons=true&theme=buefy&include_all_commits=true&count_private=true">
-  <img height="160rem" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanGrod&layout=compact&langs_count=7&theme=buefy">
-</div>
-
 
 <div align="center">
-  <img height="140rem" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LuanGrod&" alt="LuanGrod" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuanGrod&theme=gruvbox" 
+    alt="GitHub Profile Summary" 
+  />
 </div>
 
-## 🔗 Links
-<a href="https://portfolio-luangrod.vercel.app/" target="_blank"><img height="30" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/luan-grod/" target="_blank"><img height="30" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/Luan_Grod" target="_blank"><img height="30" src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="mailto:luan14rodrigues17@gmail.com?subject=Hello%20Luan,%20From%20Github" target="_blank"><img height="30" src="https://img.shields.io/badge/gmail-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white&color=DB4437"/></a>
-<a href="https://www.reddit.com/user/Initial_Ad_4043" target="_blank"><img height="30" src="https://img.shields.io/badge/reddit-1DA1F2?style=for-the-badge&logo=reddit&logoColor=white&color=FF4500"/></a>
-  
-<h6>Still in development</h6>
-<img src="https://komarev.com/ghpvc/?username=LuanGrod&style=flat-square&color=blue" alt="visit counter"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LuanGrod&style=flat-square&color=blue" alt="Profile views" />
+</p>
